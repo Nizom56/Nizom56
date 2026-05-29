@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Nizom56
 - 👀 I’m interested in Frontend developing
-- 🌱 I’m currently learning html,css,javascript
+- 🌱 I’m currently learning html,css,javascript, typescript, react, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+
 
 - 
 
