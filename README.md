@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning html,css,javascript, typescript, react, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-_ I am a disciplined person
-- i am a gey 
+_ I am not  a disciplined person
+- 
 
 - 
 
